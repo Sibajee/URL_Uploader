@@ -14,7 +14,7 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
+  "success_url": "@MovieUploaderBot",
   "website": "http://5kmoviez.xyz",
   "repository": "http://5kmoviez.xyz",
   "env": {
